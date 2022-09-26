@@ -1,7 +1,9 @@
 # Hi there, I'm Faustin! 👋
-##  👨🏻‍🎓 I am a Software Enginnering Student at ALx Africa
+##  👨🏻‍🎓 I am a Software Enginnering Student at ALX
 ####  💪🏻 I'm currently working on my skills.
 ####  👩🏻‍💻 I'm open to colloborate on Sofotware Enginnering Projects
+####  😎 I practice who I wanna  be every single day!
+####  ✊  No room for softness, No place for weakness
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustin-king&show_icons=true&theme=radical)
