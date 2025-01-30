@@ -1,5 +1,5 @@
 # Hi there, I'm Faustin! 👋
-##  👨🏻‍🎓 I am a Software Enginnering Student
+##  👨🏻‍🎓 I am a Software Engineer
 ####  💪🏻 I'm currently working on my skills.
 ####  👩🏻‍💻 I'm open to colloborate on Sofotware Enginnering Projects
 ####  😎 I practice who I wanna  be every single day!
